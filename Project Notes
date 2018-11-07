@@ -10,3 +10,7 @@ Tasks
 - Get the detailed data format(decimal points, data type, ...etc)/how often the data is sent
 - Research on how to get data from the micro bit through bluetooth
 - Decide how to store the data ... on database? on laptop?
+
+Use Cases:
+- Store data in the database
+- View stored data
