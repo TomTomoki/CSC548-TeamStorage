@@ -14,3 +14,19 @@ Tasks
 Use Cases:
 - Store data in the database
 - View stored data
+
+SCRUM Requirements Meeting Notes:
+- Hardware needed
+  - Laptop/microbit
+- Software needed
+  - MongoDB
+  - Python Shell
+- Tasks/Subtasks/Plans
+  - Design the database (Logan/Parker)
+  - Build the database (Logan/Parker)
+  - learn how to pull data from the microbit (Ruby/Tomoki)
+  - Format data (Ruby/Tomoki)
+  - Add data to tables (All)
+  - Figure out the data the other groups will get (Tomoki)
+- Items to purchase
+  - None
