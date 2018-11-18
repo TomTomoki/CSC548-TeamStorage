@@ -1,12 +1,12 @@
 Goal: “Develops the collection device that aggregates all of the data from the microbits, and uploads the data to a server" 
 -- Needed: 1 Working Project Director, 1 Python Programmer, 1 Database Specialist, 1 Web Programmer
 
-What needs to be done
+What needs to be done:
 - Get data from the centralized micro bit through the bluetooth connection
   - Talk/communicate with the micro bit... If the data is not being sent, contact someone/send some signal to the micro bit administrator
 - Store data in the database
 
-Tasks
+Tasks:
 - Get the detailed data format(decimal points, data type, ...etc)/how often the data is sent
 - Research on how to get data from the micro bit through bluetooth
 - Decide how to store the data ... on database? on laptop?
@@ -30,3 +30,9 @@ SCRUM Requirements Meeting Notes:
   - Figure out the data the other groups will get (Tomoki)
 - Items to purchase
   - None
+
+Final Design:
+Since we know that we will receive only 4 digit integers as inputs, we will test various data input frequencies
+and the database storage volume, and that will be the test for all three scenarios.
+- Data Input Frequency Limitation
+- Database Storaga Volume
