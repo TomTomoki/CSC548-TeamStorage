@@ -35,7 +35,7 @@ Final Design:
 Since we know that we will receive only 4 digit integers as inputs in all three scenarios, we will test various data-input frequencies
 and the database storage volume, and that will be our test for all three scenarios.
 - Data Input Frequency/Speed Constraints
-The centralized microbit can take inputs every .... milliseconds and send the data to our laptop without any data loss,
+The centralized microbit can take inputs up to every 2 milliseconds and send the data to our laptop without any data loss,
 and the data can be stored in our database.
 - Database Storaga Volume
 Using MongoDB, our database is stored internally/locally on our computer so we can expand the storage size as needed.
