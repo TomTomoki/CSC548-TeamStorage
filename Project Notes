@@ -32,7 +32,7 @@ SCRUM Requirements Meeting Notes:
   - None
 
 Final Design:
-Since we know that we will receive only 4 digit integers as inputs, we will test various data input frequencies
+Since we know that we will receive only 4 digit integers as inputs, we will test various data-input frequencies
 and the database storage volume, and that will be the test for all three scenarios.
 - Data Input Frequency Limitation
 - Database Storaga Volume
