@@ -7,7 +7,7 @@ radio.config(channel=13) # select a channel from 0-100
 radio.config(power=7) # select a power level from 0-7
 
 while True:
-   temp = temperature() 
+   temp = temperature()
    radio.send(str(temp)) # broadcast temp over radio
    display.scroll(str(temp) + 'C') # display temp to microbit
-   sleep(500)
+   sleep(2)
