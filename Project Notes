@@ -39,3 +39,7 @@ The centralized microbit can take inputs up to every 2 milliseconds and send the
 and the data can be stored in our database.
 - Database Storaga Volume
 Using MongoDB, our database is stored internally/locally on our computer so we can expand the storage size as needed.
+
+To do after the senario is chosen:
+- Figure out how to tell which sensor the data is coming from
+- Time function ... When to check the time? When they sense the person entering? OR when our laptop recieves the data?
