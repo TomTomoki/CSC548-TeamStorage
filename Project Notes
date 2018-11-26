@@ -45,3 +45,4 @@ To do after the senario is chosen:
   - ID...If the enter time is wrong, cancel the exit time with the ID.
 - Final data format decisions... 4 digit integers?
 - Time function ... When to check the time? When they sense the person entering? OR when our laptop recieves the data?
+- Make sure witht the networking group that the two data will not come in at the same time.
