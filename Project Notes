@@ -42,4 +42,6 @@ Using MongoDB, our database is stored internally/locally on our computer so we c
 
 To do after the senario is chosen:
 - Figure out how to tell which sensor the data is coming from and if the data should be stored or ignored
+  - ID...If the enter time is wrong, cancel the exit time with the ID.
+- Final data format decisions
 - Time function ... When to check the time? When they sense the person entering? OR when our laptop recieves the data?
