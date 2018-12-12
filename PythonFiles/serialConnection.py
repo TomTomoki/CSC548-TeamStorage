@@ -9,5 +9,4 @@ while True:
     message = radio.receive()
     if message is not None:
         display.show(message)
-        #serial.writeString(message)
         print(message)
